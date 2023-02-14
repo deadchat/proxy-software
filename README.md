@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Proxy Software</h2>
   <h4>The best Python Proxy Scaper.</h4>
-  <img src="https://i.imgur.com/6EKoPFv.png" height="128"/><img src="https://i.imgur.com/RVWAJr2.png" height="128"/>
+  <img src="https://i.imgur.com/6EKoPFv.png" height="200"/><img src="https://i.imgur.com/RVWAJr2.png" height="200"/>
   <hr>
 </div>
 
