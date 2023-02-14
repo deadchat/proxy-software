@@ -5,10 +5,13 @@
   <hr>
 </div>
 
+### Todo
 - [x] HTTP Support
 - [x] Socks4 Support
 - [x] Socks5 Support
 - [ ] Multithreading
+
+<div><hr></div>
 
 ### How does it work?
 First it gets all Proxies of public Proxy List's and request them.<br>
